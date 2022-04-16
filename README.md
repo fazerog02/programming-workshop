@@ -1,5 +1,6 @@
 # プログラミング講習
-
+## 授業資料
+- https://docs.google.com/presentation/d/1Wc97koniIz9oEXafOGiFMrRdaSXpL41yEcxUP6Y_cG0/edit?usp=sharing+
 ## 授業内容
 - 1日の講義時間は5時間と仮定する
 ### 1日目
