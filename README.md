@@ -9,10 +9,8 @@
     - chromebookで入れられるlinuxはdebianベース
   - terminalの使い方
 - Visual Studio Codeのインストール(なくても可): <作業20分>
-- pythonの環境構築・実行方法: <説明20分, 作業30分>
+- pythonの環境構築・実行方法: <説明15分, 作業20分>
   - pythonの概要
-  - python及びpipのインストール
-  - pygameのインストール
   - pythonファイルの実行方法
   - hello world
 - 休憩(20分)
@@ -29,6 +27,9 @@
   - 無限ループ
   - foreachの説明
 ### 2日目
+- pipの環境構築: <説明5分, 作業10分>
+  - python及びpipのインストール
+  - pygameのインストール
 - pygameライブラリ: <説明20分, 作業30分>
   - ウィンドウの表示
   - 文字の表示
