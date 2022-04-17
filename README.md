@@ -4,28 +4,31 @@
 ## 授業内容
 - 1日の講義時間は5時間と仮定する
 ### 1日目
-- Linux: <説明20分, 作業30分>
+- Linux: <説明10分, 作業30分>
   - Linuxのインストール
     - chromebookで入れられるlinuxはdebianベース
   - terminalの使い方
-- Visual Studio Codeのインストール(なくても可): <作業20分>
+- Visual Studio Codeのインストール(なくても可): <説明10分，作業20分>
 - pythonの環境構築・実行方法: <説明15分, 作業20分>
   - pythonの概要
   - pythonファイルの実行方法
   - hello world
 - 休憩(20分)
 - 四則演算: <説明10分, 作業20分>
+  - bmiの計算(1)
 - 変数: <説明20分, 作業30分>
   - 変数の概念
   - int型
-  - double型
+  - double(float)型
   - string型(stringの足し算についても話す)
-  - 配列
+  - bmiの計算(2)
 - if文: <説明15分, 作業20分>
   - 条件式(>, <, >=, <=, ==)
-- for文(while文): <説明15分, 作業30分>
+  - bmiの計算(3)
+- for文(while文): <説明20分, 作業30分>
   - 無限ループ
   - foreachの説明
+  - 配列
 ### 2日目
 - pipの環境構築: <説明5分, 作業10分>
   - python及びpipのインストール
